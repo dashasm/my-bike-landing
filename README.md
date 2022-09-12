@@ -1,4 +1,5 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://dashasm.github.io/my-bike-landing/)
+MyBike Landing
+
+Technologies used: CSS, Sass, HTML, BEM, JS
+
+- [DEMO LINK](https://dashasm.github.io/my-bike-landing/)
